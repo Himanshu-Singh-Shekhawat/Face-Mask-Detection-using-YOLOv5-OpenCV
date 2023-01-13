@@ -32,5 +32,4 @@ above cell) and this is my self
 - Just download the final video
 - export your model's weights for future use
 Why you have taken it:
-According to the requirements i have chosen the algorithm to get
-the best accuracy and to get the best result.
+
