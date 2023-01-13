@@ -31,5 +31,3 @@ above cell) and this is my self
 - Detection on video
 - Just download the final video
 - export your model's weights for future use
-Why you have taken it:
-
