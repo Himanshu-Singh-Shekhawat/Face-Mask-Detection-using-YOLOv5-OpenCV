@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1fXWuIwB5lcMcXtTjH1zqyox7uUiCBDyA?usp=sha
 Video G-Drive Link : -
 https://drive.google.com/drive/folders/11IeePpL8YHyYqOor0sQkyHcFCX5w1fnI?usp=share_link
 
-Face Mask Detection
+**Face Mask Detection**
 
 Face mask detection is an object detection task that detects whether people are wearing masks or not in videos. This repo includes a demo for building a face mask detector using YOLOv5 model.
 
