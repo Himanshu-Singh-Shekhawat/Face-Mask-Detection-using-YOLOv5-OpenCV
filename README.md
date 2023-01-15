@@ -25,8 +25,7 @@ image recognition
 - Install all the requirements.txt
 - Then download the pre-trained weights
 - Training the model of yolo using the face mask
-dataset(dataset.yaml(in which i have mentioned clear address
-of the train and val images) The dataset.yaml file is stored on my drive .....and i have used the yolo weights for the training purpose....I have upload the yolov5s.pt weights.
+dataset(dataset.yaml(in which i have mentioned clear address of the train and val images) The dataset.yaml file is stored on my drive .....and i have used the yolo weights for the training purpose....I have upload the yolov5s.pt weights.
 - Detection on new images
 - used opencv for displaying the detected images (which i detect in
 above cell) and this is my self
