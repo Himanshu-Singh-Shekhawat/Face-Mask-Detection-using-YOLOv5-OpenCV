@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/11IeePpL8YHyYqOor0sQkyHcFCX5w1fnI?usp=sha
 
 **Face Mask Detection**
 
-Face mask detection is an object detection task that detects whether people are wearing masks or not in videos. This repo includes a demo for building a face mask detector using YOLOv5 model.
+Face mask detection is an object detection task that detects whether people are wearing masks or not in videos. 
 
 So in this assignment i have done the real time face detections by using YOLO and deepsort
 along with the Opencv there are the steps which is followed in the process to to achieve the
